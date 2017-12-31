@@ -1,3 +1,5 @@
+#![crate_name = "data_types"]
+
 fn main() {
     /// # Built-in Data Types
     /// Rust has two data type categories - Scalar types and Compound types.  
